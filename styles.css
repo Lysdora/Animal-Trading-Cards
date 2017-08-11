@@ -1,0 +1,71 @@
+/* add your CSS here */
+
+/* General */
+
+body {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+#card {
+	width: 300px;
+	height: 800px;
+	padding: 10px;
+	border: 1px solid #dad4d4;
+	border-radius: 5px;
+	background-image: url(forest-elwyn.jpg) ;
+	
+}
+
+.main {
+	border: 1px solid #4a4646;
+	background-color: rgba(0, 0, 0, 0.56);
+}
+
+/*.firstcharacter {
+	
+	
+}*/
+.title {
+	color: white;
+	font-family: 'Kurale', serif;
+	font-size: 30px;
+	margin-top: 10px;
+	background-color: #b9b5b5;
+	text-align: center;
+	border-radius: 2px;
+	border-right: 4px solid #80a9ab;
+	border-left: 4px solid #80a9ab;
+	background-color: rgba(0, 0, 0, 0.56);
+	
+}
+.para {
+	font-style: italic;
+	padding: 10px;
+}
+
+.picture {
+	width: 300px;
+	border-radius: 5px;
+	margin-bottom: 10px;		
+	
+}
+
+.bold {
+	font-weight: 800;
+}
+
+ul {
+
+	list-style-type: none;
+}
+
+hr {
+	width: 50%;
+	display: block;
+	height: 1px;
+	background-color: #4a4646;
+    border: black;
+	
+	
+}
